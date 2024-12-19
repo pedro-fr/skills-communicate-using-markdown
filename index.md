@@ -8,6 +8,12 @@ I've just added to headers to the index.md file according to the tutorial.
 $echo "Hello world
 Hello world
 ```
+## Task list
+- [x] Practice with headers in MArkdown
+- [x] Add an image
+- [x] Add a code example
+- [x] Add a task list
+- [ ] Empty element
 
 
 
